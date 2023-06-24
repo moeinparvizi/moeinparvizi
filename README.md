@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=800080&height=300&section=header&text=moein%20parvizi&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=800080&height=300&section=header&text=moein%2parvizi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
+<p align='center'> hello im moein parvizi, please follow my page! </p>
 # 💫 About Me:
 🔭 I am currently looking for work<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about front-end and python and linux<br>⚡ about me : Since 2017, I started learning programming, but with textbooks at school. In 2021, I wrote my first project (not to mention, I was not interested), I became interested over time, and in 2023, I continued my activity seriously.
 
