@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=moein%20parvizi&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=purple&height=300&section=header&text=moein%20parvizi&fontSize=90)
 # 💫 About Me:
 🔭 I am currently looking for work<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about front-end and python and linux<br>⚡ about me : Since 2017, I started learning programming, but with textbooks at school. In 2021, I wrote my first project (not to mention, I was not interested), I became interested over time, and in 2023, I continued my activity seriously.
 
