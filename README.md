@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=800080&height=400&section=header&text=moein%20parvizi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=hello%20im%20moein%20please%20follow%20my%20page!&descAlignY=51&descAlign=62)
+<!--![header](https://capsule-render.vercel.app/api?type=waving&color=800080&height=400&section=header&text=moein%20parvizi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=hello%20im%20moein%20please%20follow%20my%20page!&descAlignY=51&descAlign=62) -->
+![New Project](https://github.com/moeinparvizi/moeinparvizi/assets/38692466/17b3a0d9-cb5a-495c-89e3-513541339bae)
+
 
 
 # 💫 About Me:
