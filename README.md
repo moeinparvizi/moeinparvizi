@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 
-🔭 I am currently looking for work<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about front-end and python and linux<br>⚡ about me : Since 2017, I started learning programming, but with textbooks at school. In 2021, I wrote my first project (not to mention, I was not interested), I became interested over time, and in 2023, I continued my activity seriously.
+🔭 I am currently looking for work<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about front-end and python and linux<br>⚡ about me : Hello, I am Moein Parvizi, born in Tehran in 2002, I fell in love with programming since I was in high school, and by entering the web world, I was able to gain good experiences. I want to learn more in this field and experience more.
 
 
 ## 🌐 Socials:
