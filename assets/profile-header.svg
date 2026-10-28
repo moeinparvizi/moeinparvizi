@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Moein Parvizi — Frontend Developer</title>
+  <desc id="desc">A dark navy banner with turquoise accents and an abstract browser window. Thoughtful interfaces. Practical code.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#101c30"/>
+      <stop offset="1" stop-color="#080f1c"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#5eead4"/>
+      <stop offset="1" stop-color="#7dd3fc"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#24354d" stroke-width="0.7"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="340" rx="20" fill="url(#bg)"/>
+  <rect x="720" width="480" height="340" rx="20" fill="url(#grid)" opacity="0.55"/>
+  <path d="M0 337H1200" stroke="url(#accent)" stroke-width="6"/>
+  <rect x="60" y="57" width="38" height="4" rx="2" fill="#5eead4"/>
+  <text x="60" y="101" fill="#5eead4" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" letter-spacing="3">FRONTEND DEVELOPER</text>
+  <text x="56" y="177" fill="#f1f5f9" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="-2">Moein Parvizi</text>
+  <text x="60" y="224" fill="#b3c1d4" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="22">Thoughtful interfaces. Practical code.</text>
+  <text x="60" y="285" fill="#8193ad" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15">moeinparvizi.com</text>
+  <g transform="translate(792 70)">
+    <rect width="330" height="204" rx="12" fill="#111e30" stroke="#34465e"/>
+    <path d="M0 40H330" stroke="#34465e"/>
+    <circle cx="21" cy="20" r="4" fill="#5eead4"/>
+    <circle cx="37" cy="20" r="4" fill="#58718f"/>
+    <circle cx="53" cy="20" r="4" fill="#58718f"/>
+    <text x="289" y="25" fill="#8193ad" font-family="ui-monospace, Consolas, monospace" font-size="13">UI</text>
+    <rect x="22" y="61" width="65" height="121" rx="5" fill="#1c3046"/>
+    <rect x="101" y="61" width="207" height="53" rx="5" fill="#254750"/>
+    <path d="M120 81H206M120 94H265" stroke="#5eead4" stroke-width="4" stroke-linecap="round"/>
+    <rect x="101" y="127" width="97" height="55" rx="5" fill="#20364e"/>
+    <rect x="211" y="127" width="97" height="55" rx="5" fill="#20364e"/>
+    <path d="M36 82H72M36 99H63M36 116H67" stroke="#8193ad" stroke-width="3" stroke-linecap="round"/>
+  </g>
+</svg>
